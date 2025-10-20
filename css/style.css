@@ -1045,6 +1045,10 @@ nav ul li a{
     font-size: 1.8rem;
   }
 
+  .whatsapp{
+    width: 50px;
+    height: 50px;
+  }
 }
 
 .contact-info a{
